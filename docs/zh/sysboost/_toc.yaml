@@ -1,0 +1,10 @@
+label: sysBoost用户指南
+isManual: true
+description: 优化代码与运行环境的 CPU 微架构的适应性，提升程序性能
+sections:
+  - label: 认识sysBoost
+    href: ./getting_to_know_sysBoost.md
+  - label: 安装与部署
+    href: ./installation_and_deployment.md
+  - label: 使用方法
+    href: ./usage_instructions.md

@@ -1,0 +1,10 @@
+label: sysBoost User Guide
+isManual: true
+description: Enhance code compatibility with the CPU microarchitecture of the execution environment to boost program performance.
+sections:
+  - label: Getting to Know sysBoost
+    href: ./getting_to_know_sysboost.md
+  - label: Installation and Deployment
+    href: ./installation_and_deployment.md
+  - label: Usage Instructions
+    href: ./usage_instructions.md
