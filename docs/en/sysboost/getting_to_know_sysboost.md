@@ -28,7 +28,7 @@ sysBoost reorders the code of executable files and dynamic libraries online to a
 
 **Figure 1** sysBoost architecture
 
-![](./figures/architecture.png)
+![sysBoost architecture, showing how the user-space sysboost daemon and the kernel exec native huge page mechanism work together to optimize binary files](./figures/architecture.png)
 
 ## sysBoost Features
 

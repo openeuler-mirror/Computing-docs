@@ -28,7 +28,7 @@
 
 **图 1**  sysBoost设计总体方案
 
-![](./figures/架构.png)
+![sysBoost 系统架构图,展示用户态 sysboost 守护进程与内核 exec 原生大页机制协同优化二进制文件](./figures/架构.png)
 
 ## sysBoost支持的功能特性
 
