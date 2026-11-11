@@ -1,3 +1,11 @@
+---
+description: Describes the software and hardware requirements (Kunpeng 920 server, openEuler 23.09) and the installation steps for sysBoost — mounting the ISO image, configuring a local Yum source, and installing sysBoost with ELF relocation tools.
+keywords: [sysBoost, installation, deployment, Kunpeng 920, openEuler, Yum source]
+changefreq: monthly
+author: Computing SIG
+priority: 0.7
+---
+
 # Installation and Deployment
 
 ## Software and Hardware Requirements

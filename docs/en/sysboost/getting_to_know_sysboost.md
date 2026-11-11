@@ -1,3 +1,11 @@
+---
+description: Introduces the design, key technologies, and architecture of sysBoost, which reorders executable and shared library code online to adapt to the CPU microarchitecture, boosting performance through dynamic library merging, PLT jump elimination, and the exec native huge page mechanism.
+keywords: [sysBoost, performance optimization, code reordering, huge page, PLT jump, openEuler]
+changefreq: monthly
+author: Computing SIG
+priority: 0.8
+---
+
 # Getting to Know sysBoost
 
 ## Introduction

@@ -1,3 +1,11 @@
+---
+description: 介绍 sysBoost 的设计原理、关键技术与系统架构:在线重排可执行文件与动态库代码以适配 CPU 微架构,通过动态库合并、消除 PLT 跳转与 exec 原生大页机制提升程序性能。
+keywords: [sysBoost, 性能优化, 代码重排, 大页内存, PLT 跳转, openEuler]
+changefreq: monthly
+author: Computing SIG
+priority: 0.8
+---
+
 # 认识sysBoost
 
 ## 概述
