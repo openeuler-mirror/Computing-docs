@@ -1,3 +1,11 @@
+---
+description: 介绍 sysBoost 的使用方法:通过 /etc/sysboost.d/ 下的配置文件指定待优化的 ELF 文件与优化模式,涵盖配置项说明、配置示例及 systemd 服务启停等常用操作。
+keywords: [sysBoost, 使用方法, 配置文件, systemd, ELF 优化]
+changefreq: monthly
+author: Computing SIG
+priority: 0.7
+---
+
 # 使用方法
 
 ## 总体说明

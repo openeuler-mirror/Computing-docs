@@ -1,3 +1,11 @@
+---
+description: Describes how to use sysBoost — specify the ELF files to be optimized and the optimization mode in the configuration files under /etc/sysboost.d/, including configuration items, examples, and common systemd service operations.
+keywords: [sysBoost, usage, configuration file, systemd, ELF optimization]
+changefreq: monthly
+author: Computing SIG
+priority: 0.7
+---
+
 # Usage Instructions
 
 ## Overview

@@ -1,3 +1,11 @@
+---
+description: 介绍 sysBoost 的软硬件要求(鲲鹏 920 服务器、openEuler 23.09)与安装步骤:挂载 ISO 镜像、配置本地 Yum 源、安装 sysBoost 及 ELF 重定位依赖工具。
+keywords: [sysBoost, 安装部署, 鲲鹏 920, openEuler, Yum 源]
+changefreq: monthly
+author: Computing SIG
+priority: 0.7
+---
+
 # 安装与部署
 
 ## 软硬件要求
